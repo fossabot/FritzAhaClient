@@ -1,4 +1,6 @@
 # FritzAhaClient
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwolpl%2FFritzAhaClient.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwolpl%2FFritzAhaClient?ref=badge_shield)
+
 [![](https://jitpack.io/v/wolpl/FritzAhaClient.svg)](https://jitpack.io/#wolpl/FritzAhaClient)
 
 
@@ -26,3 +28,7 @@ fun main(){
     println("Available switches: $switches")
 }
 ````
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwolpl%2FFritzAhaClient.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwolpl%2FFritzAhaClient?ref=badge_large)
